@@ -1,0 +1,106 @@
+
+{
+    "song": [
+    {
+        "title": "Life is a Highway",
+        "artist": "Rascall Flatts",
+        "year": 2006,
+        "genre": [
+        "Rock",
+        "Country"
+        ]
+    },
+    {
+        "title": "Mistletoe",
+        "artist": "Justin Bieber",
+        "year": 2011,
+        "genre": [
+        "Pop",
+        "Contemporary RandB",
+        "Holiday"
+        ]
+    },
+    {
+        "title": "Night Changes",
+        "artist": "One Direction",
+        "year": 2014,
+        "genre": "Pop"
+    },
+    {
+        "title": "Dancing Queen",
+        "artist": "ABBA",
+        "year": 1976,
+        "genre": [
+        "Eurodisco",
+        "Pop"
+        ]
+    },
+    {
+        "title": "Body Like a Back Road",
+        "artist": "Sam Hunt",
+        "year": 2020,
+        "genre": [
+        "Country Pop",
+        "Country"
+        ]
+    },
+    {
+        "title": "Memories",
+        "artist": "Conan Gray",
+        "year": 2022,
+        "genre": [
+        "Alternative Indie",
+        "Pop"
+        ]
+    },
+    {
+        "title": "Be the One",
+        "artist": "Dua Lipa",
+        "year": 2015,
+        "genre": "Pop"
+    },
+    {
+        "title": "Best Friend",
+        "artist": "Rex Orange County",
+        "year": 2017,
+        "genre": [
+        "Alternative Indie",
+        "Pop"
+        ]
+    },
+    {
+        "title": "Ballin'",
+        "artist": "Mustard",
+        "year": 2019,
+        "genre": [
+        "RandB/Soul",
+        "Hip Hop",
+        "Rap"
+        ]
+    },
+    {
+        "title": "Small Worlds",
+        "artist": "Mac Miller",
+        "year": 2018,
+        "genre": [
+        "Hip Hop",
+        "Rap"
+        ]
+    },
+    {
+        "title": "London Boy",
+        "artist": "Taylor Swift",
+        "year": 2019,
+        "genre": [
+        "Alternative Indie",
+        "Pop"
+        ]
+    },
+    {
+        "title": "Daylight",
+        "artist": "Harry Styles",
+        "year": 2022,
+        "genre": "Pop"
+    }
+    ]
+}
